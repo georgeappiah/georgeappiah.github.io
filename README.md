@@ -1,2 +1,3 @@
-# georgeappiah.github.io
+# George Appiah's GitHub Portfolio Site
+
 Portfolio Website
